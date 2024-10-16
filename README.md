@@ -1,7 +1,5 @@
 # Data Analyst
 
-This is a **Data analytics** project of my interest.
-
 ## My Portfolio
 
 ![ ](https://github.com/wannaya26/Certification/assets/141702360/8b4e1b33-7c19-4296-88f6-7ffa2042bf71)
